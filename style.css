@@ -1,0 +1,91 @@
+h1 {
+    font-family: fantasy;
+    font-size: 50px;
+    position: absolute;
+    left: 225px;
+    color: red;
+}
+
+#logo {
+position: absolute;
+top: 10px;
+left: 800px;
+}
+
+body {
+    color: yellow;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    border-radius: 10px;
+    height: 150px;
+    width: 150px;
+}
+
+#gk {
+    position: absolute;
+    top: 120px;
+    left: 425px;
+}
+
+#rb {
+    position: absolute;
+    top: 450px;
+    left: 50px;
+}
+
+#cb1 {
+    position: absolute;
+    top: 400px;
+    left: 300px;
+}
+
+#cb2 {
+    position: absolute;
+    top: 400px;
+    left: 550px;
+}
+
+#lb {
+    position: absolute;
+    top: 450px;
+    left: 800px;
+}
+
+#rm {
+    position: absolute;
+    top: 850px;
+    left: 50px;
+}
+
+#cm1 {
+    position: absolute;
+    top: 800px;
+    left: 300px;
+}
+
+#cm2 {
+    position: absolute;
+    top:800px;
+    left: 550px;
+}
+
+#lm {
+    position: absolute;
+    top: 850px;
+    left: 800px;
+}
+
+#cf {
+    position: absolute;
+    top: 1150px;
+    left: 300px;
+}
+
+#st {
+    position: absolute;
+    top: 1200px;
+    left: 550px;
+}
